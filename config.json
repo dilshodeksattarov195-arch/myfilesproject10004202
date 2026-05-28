@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emaildncrypt",
+        "uuid": 6622352,
+        "checksum": "jlhcoi"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
